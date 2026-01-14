@@ -4,7 +4,6 @@ I'm a **BSCS student specializing in Machine Learning**.
 I enjoy learning programming step by step and building projects to improve my skills.
 
 <br>
-
 ## 🛠 Languages & Tools
 
 <p align="left">
@@ -12,7 +11,6 @@ I enjoy learning programming step by step and building projects to improve my sk
 </p>
 
 <br>
-
 ## 📚 Currently Learning
 - Python for Machine Learning  
 - Data Structures  
@@ -20,7 +18,6 @@ I enjoy learning programming step by step and building projects to improve my sk
 - SQL basics  
 
 <br>
-
 ## 🚀 Projects
 - Beginner Python programs (loops, functions, basic logic)  
 - Simple Calculator (Python)  
@@ -28,7 +25,6 @@ I enjoy learning programming step by step and building projects to improve my sk
 - Machine Learning practice notebooks *(coming soon)*  
 
 <br>
-
 ## 🎯 Goals
 - Become a Machine Learning Engineer  
 - Build beginner to intermediate ML projects  
@@ -36,11 +32,9 @@ I enjoy learning programming step by step and building projects to improve my sk
 - Create a strong and clean GitHub portfolio  
 
 <br>
-
 ## 📫 Contact
 - 📍 Philippines  
 - 📧 Email: gamboajb@students.national-u.edu.ph  
 
 <br>
-
-⭐ *I’m still learning and improving every day. Feel free to check out my repositories!*
+⭐ *I’m still learning and improving every day. repositories are still in private!*
