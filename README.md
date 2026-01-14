@@ -4,7 +4,10 @@
     
 
 # Hi, I'm Jhon Roy 👋 
-![Profile views](https://komarev.com/ghpvc/?username=JhonRoy28&label=Profile%20views&color=008000&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=JhonRoy28&label=Profile%20views&color=0A66C2&style=flat)
+
+
+
 
 
 
@@ -95,13 +98,18 @@ I enjoy learning programming step by step and building projects to improve my sk
 
 
 ## 📫 Contact
-- 📍 Philippines, Manila
-- 📧 Email: jhonroy.gamboa@gmail.com
+📍 Philippines, Manila<br><br>
+<a href="mailto:jhonroy.gamboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail"/></a><br>
+<a href="https://github.com/JhonRoy28"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="github"/></a><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F2C94C?labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-roy-gamboa-997b6a337/)<br>
 
-⭐ *I’m still learning and improving every day. Feel free to check out my repositories!*
+⭐ *I’m still learning and improving every day. Feel free to check out my repositories!*<br>
+![Jhon Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonRoy28&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JhonRoy28&no-frame=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JhonRoy28&theme=tokyonight&hide_border=true)
+
+
+
 
 
 
