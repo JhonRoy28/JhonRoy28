@@ -104,10 +104,7 @@ I enjoy learning programming step by step and building projects to improve my sk
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F2C94C?labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-roy-gamboa-997b6a337/)<br>
 
 ⭐ *I’m still learning and improving every day. Feel free to check out my repositories!*<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonRoy28&show_icons=true&theme=default&hide_border=true)
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonRoy28&show_icons=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JhonRoy28&theme=tokyonight&hide_border=true)
 
