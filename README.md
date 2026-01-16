@@ -103,7 +103,7 @@ I enjoy learning programming step by step and building projects to improve my sk
 <a href="https://github.com/JhonRoy28"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="github"/></a><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F2C94C?labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-roy-gamboa-997b6a337/)<br>
 
-⭐ *I’m still learning and improving every day. Feel free to check out my repositories!*<br>
+⭐ *I’m still learning and improving every day. main project repositories are still private*<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonRoy28&show_icons=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JhonRoy28&theme=tokyonight&hide_border=true)
